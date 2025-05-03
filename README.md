@@ -19,5 +19,5 @@ Hackintosh Opencore EFI for Gigabyte B650 Motherboard, AMD Ryzen 7 8600G + RX 69
   <th>Software</th> <th>Version</th>
   
   <tr><td>macOS</td><td>14.4</td></tr>
-  <tr><td>Opencore</td><td>14.4</td></tr>
+  <tr><td>Opencore</td><td>1.0.4</td></tr>
 </table>
